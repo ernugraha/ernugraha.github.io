@@ -34,9 +34,11 @@ If you download the apk in Waydroid, just open the apk.
 ### From the desktop
 If you downloaded it from your desktop, run this command:
 
-```cd Downloads #locate your download location```
+    cd Downloads #locate your download location
+
 then
-```waydroid app install XtMapper*.apk```
+    
+    waydroid app install XtMapper*.apk
 
 After that, go to the next step.
 
@@ -64,4 +66,6 @@ run the cage-xtmapper by
 
     /usr/local/bin/cage_xtmapper.sh
 
-and done
+and done.
+
+More info click [here.](https://xtr126.github.io/XtMapper-docs/waydroid/1-overview/) (IMPORTANT)
