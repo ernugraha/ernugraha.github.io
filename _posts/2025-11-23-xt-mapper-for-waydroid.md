@@ -34,8 +34,9 @@ If you download the apk in Waydroid, just open the apk.
 ### From the desktop
 If you downloaded it from your desktop, run this command:
 
-$```cd Downloads #locate your download location```
-$```waydroid app install XtMapper*.apk```
+```cd Downloads #locate your download location```
+then
+```waydroid app install XtMapper*.apk```
 
 After that, go to the next step.
 
@@ -53,12 +54,14 @@ Download v0.1.5 - For slightly older distros with wlroots v0.17.x - Ubuntu 24.04
 ### Step 2
 To install from the downloaded tarball:
 
-```    tar xvf cage-xtmapper*.tar
+    tar xvf cage-xtmapper*.tar
     cd /usr/local/bin
     sudo install -Dm755 ./cage_xtmapper /usr/local/bin/
-    sudo install -Dm755 ./cage_xtmapper.sh /usr/local/bin/ ```
+    sudo install -Dm755 ./cage_xtmapper.sh /usr/local/bin/
 
 ## After that
 run the cage-xtmapper by
 
-$```/usr/local/bin/cage_xtmapper.sh```
+    /usr/local/bin/cage_xtmapper.sh
+
+and done
