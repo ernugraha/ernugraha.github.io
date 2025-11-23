@@ -22,12 +22,12 @@ dash:
 
   # (optional) discqus comment configuration
   disqus:
-    shortname: ernugrahadev-github-io
+    shortname: ernugraha-github-io
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://youtube.com/
+    - url: https://www.youtube.com/@remieldev
       icon: youtube-square
       color: red
     - url: https://ernugraha.itch.io/
@@ -48,7 +48,7 @@ dash:
 
   # Replaces the default avatar provider (gravatar)
   avatar_source: github
-  github_username: ernugrahadev
+  github_username: ernugraha
   #avatar_source: local
   #avatar_path: /assets/avatar.png
 
