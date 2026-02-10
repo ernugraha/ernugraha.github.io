@@ -23,6 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Categories:
     - Raspberry Pi: "/tag/raspberry-pi"
+    - Linux: "/tag/linux"
+    - OS: "tag/operating-system.md"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
