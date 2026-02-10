@@ -21,7 +21,8 @@ author: ernugraha
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Categories:
+    - Raspberry Pi: "/tag/raspberry-pi"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
