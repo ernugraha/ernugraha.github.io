@@ -24,7 +24,7 @@ navbar-links:
   Categories:
     - Raspberry Pi: "/tag/raspberry-pi"
     - Linux: "/tag/linux"
-    - OS: "tag/operating-system.md"
+    - OS: "tag/operating-system"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
