@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tag
 title: Linux
 tag: Linux
 pagination:
