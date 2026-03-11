@@ -20,6 +20,7 @@ Perhaps some of you are still confused about how to install the Raspberry Pi ope
 
 - [Installing Pi Imager](#installing-pi-imager)
 - [Flashing Images](#flashing-images)
+- [Customize the OS](#customize-the-os)
 
 
 ## Installing Pi Imager
@@ -29,7 +30,19 @@ Perhaps some of you are still confused about how to install the Raspberry Pi ope
 4. Launch.
 
 ## Flashing Images
-WIP
+1. In the **Device** tab, select your Raspberry Pi model from the list. Select **Next.**
+
+2. In the **OS** tab, select **Raspberry Pi OS (64bit)**
+<img src="/assets/img/os/pi/img1.png" alt="drawing" width="200"/>
+
+3. Connect your preferred storage device to your computer. For example, plug a microSD card in using an external or built-in SD card reader.
+
+4. In the **Storage** tab, select the device to write image to it. Select **Next**
+
+{: .box-warning}
+**Warning:** If you have more than one storage device connected to your computer, be sure to choose the correct device! You can often identify storage devices by size. If you’re unsure, disconnect other devices until you’ve identified the device you want to image. Imager warns you if you attempt to overwrite a system drive on your computer. 
+
+## Customize the OS
 
 <details markdown="1">
 <summary>Sources</summary>
