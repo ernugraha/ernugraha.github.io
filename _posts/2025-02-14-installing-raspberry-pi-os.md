@@ -18,14 +18,18 @@ Perhaps some of you are still confused about how to install the Raspberry Pi ope
 
 ### Table of Content
 
-[Installing Pi Imager](#installing-pi-imager)
+- [Installing Pi Imager](#installing-pi-imager)
+- [Flashing Images](#flashing-images)
 
 
 ## Installing Pi Imager
-1. Navigate to [this](www.raspberrypi.com/software/) website (click it)
+1. Navigate to [this](https://www.raspberrypi.com/software/) website (click it)
 2. Download the latest version as an AppImage. Make the AppImage executable.
 3. Run AppImage as root
-4. 
+4. Launch.
+
+## Flashing Images
+WIP
 
 <details markdown="1">
 <summary>Sources</summary>
