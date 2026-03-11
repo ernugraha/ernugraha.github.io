@@ -16,8 +16,16 @@ Tested on Raspberry Pi 5 Model B, should work on CM5, 500, and Pi 4
 
 Perhaps some of you are still confused about how to install the Raspberry Pi operating system on the Raspberry Pi itself. So, I'll teach you in this article.
 
+### Table of Content
+
+[Installing Pi Imager](#installing-pi-imager)
 
 
+## Installing Pi Imager
+1. Navigate to [this](www.raspberrypi.com/software/) website (click it)
+2. Download the latest version as an AppImage. Make the AppImage executable.
+3. Run AppImage as root
+4. 
 
 <details markdown="1">
 <summary>Sources</summary>
