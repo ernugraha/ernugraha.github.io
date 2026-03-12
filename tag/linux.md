@@ -4,5 +4,5 @@ title: Linux
 tag: Linux
 pagination:
   enabled: true
+subtitle: Linux stuff.
 ---
-Linux stuff.

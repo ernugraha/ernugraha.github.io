@@ -33,7 +33,9 @@ Perhaps some of you are still confused about how to install the Raspberry Pi ope
 1. In the **Device** tab, select your Raspberry Pi model from the list. Select **Next.**
 
 2. In the **OS** tab, select **Raspberry Pi OS (64bit)**
-<img src="/assets/img/os/pi/img1.png" alt="drawing" width="200"/>
+
+
+<img src="/assets/img/os/pi/img1.png" alt="drawing" width="320"/>
 
 3. Connect your preferred storage device to your computer. For example, plug a microSD card in using an external or built-in SD card reader.
 
