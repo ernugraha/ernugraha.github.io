@@ -5,6 +5,7 @@ subtitle: This article teach you how to install Vimix GRUB themes to your system
 tags: [operating-system, linux]
 comments: true
 author: ernugraha
+cover-img: /assets/img/os/vimix.jpg
 ---
 
 {: .box-not}
