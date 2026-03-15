@@ -6,6 +6,7 @@ tags: [raspberry-pi, linux, operating-system]
 comments: true
 mathjax: false
 author: ernugraha
+cover-img: /assets/img/os/pi/thumb.png
 ---
 
 {: .box-note}
