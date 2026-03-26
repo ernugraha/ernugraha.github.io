@@ -13,4 +13,4 @@ What else do you need?
 
 ### My story
 
-Just a little boy lives in Indonesia
+Just a little boy who lives in Indonesia
