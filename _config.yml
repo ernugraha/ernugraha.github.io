@@ -21,6 +21,7 @@ author: ernugraha
 
 navbar-links:
   About Me: "aboutme"
+  Posts: "posts"
   Categories:
     - Raspberry Pi: "/tag/raspberry-pi"
     - Linux: "/tag/linux"
