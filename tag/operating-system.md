@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: Operating System
-tag: OS
+tag: operating-system
 pagination:
   enabled: true
 subtitle: Operating Systen stuff.
