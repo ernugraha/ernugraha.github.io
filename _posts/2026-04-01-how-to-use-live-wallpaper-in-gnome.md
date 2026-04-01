@@ -20,14 +20,13 @@ Live wallpapers (moving wallpapers) are used to enhance the visual aesthetics of
 - [Flashing Images](#flashing-images)
 
 ## Set up the dependencies
-1. Install this packages:
-
+1.Install this packages:
 ```
 sudo apt install gnome-shell-extension-manager git meson ibgtk-4-media-gstreamer
 ```
 
 
-2. Next, we will installling extension.
+2.Next, we will installling extension.
 
 - For GNOME 45 and later
 ```
@@ -40,7 +39,7 @@ git clone https://github.com/jeffshee/gnome-ext-hanabi.git -b legacy
 ```
 
 
-3. Run the installation script
+3.Run the installation script
 ```
 cd gnome-ext-hanabi
 ./run.sh install
