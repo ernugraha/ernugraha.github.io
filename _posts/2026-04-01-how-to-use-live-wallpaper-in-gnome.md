@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to install live wallpaper for Gnome
+title: How to install live wallpaper for GNOME
 subtitle: Well, this might make your Gnome different.
 tags: [operating-system, linux]
 comments: true
@@ -8,11 +8,11 @@ author: ernugraha
 ---
 
 {: .box-note}
-Tested on Ubuntu 25.0 running GNome 49.
+Tested on Ubuntu 25.0 running GNOME 49.
 
 ## Introduction
 
-Live wallpapers (moving wallpapers) are used to enhance the visual aesthetics of a device, making it more dynamic, personal, and modern than static images. In this tutorial ill teach you how to install live wallpaper extension for GNome!
+Live wallpapers (moving wallpapers) are used to enhance the visual aesthetics of a device, making it more dynamic, personal, and modern than static images. In this tutorial ill teach you how to install live wallpaper extension for GNOME!
 
 ### Table of Content
 - [Introduction](#introduction)
@@ -21,9 +21,11 @@ Live wallpapers (moving wallpapers) are used to enhance the visual aesthetics of
 
 ## Set up the dependencies
 1. Install this packages:
+
 ```
 sudo apt install gnome-shell-extension-manager git meson ibgtk-4-media-gstreamer
 ```
+
 
 2. Next, we will installling extension.
 
@@ -37,6 +39,7 @@ git clone https://github.com/jeffshee/gnome-ext-hanabi.git
 git clone https://github.com/jeffshee/gnome-ext-hanabi.git -b legacy
 ```
 
+
 3. Run the installation script
 ```
 cd gnome-ext-hanabi
@@ -48,14 +51,14 @@ After that, restart GNOME Shell.
 
 ## Setting up the extension
 
-1. Open **GNOME Extension Manager**
+1.Open **GNOME Extension Manager**
 
 <img src="/assets/img/os/gnome/live-wall/1.png" alt="extension" width="320"/>
 
-2. Enable Hanabi Extension (the Live Wallpaper CORE)
+2.Enable **Hanabi** Extension (the Live Wallpaper CORE)
 
 <img src="/assets/img/os/gnome/live-wall/2.png" alt="extension-enable" width="320"/>
 
-3. Choose your video wallpaper in the extension preference window
+3.Choose your video wallpaper in the extension preference window (Work best on **WebM** video format.).
 
 And DONE!!
