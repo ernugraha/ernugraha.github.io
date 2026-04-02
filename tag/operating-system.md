@@ -5,4 +5,5 @@ tag: operating-system
 pagination:
   enabled: true
 subtitle: Operating Systen stuff.
+search_exclude: true
 ---

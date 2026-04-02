@@ -5,4 +5,5 @@ tag: raspberry-pi
 pagination:
   enabled: true
 subtitle: Raspberry Pi stuff tutorial.
+search_exclude: true
 ---
