@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: My Portofolio
+search_exclude: true
 ---
 
 My name is ernugraha. I have the following qualities:
