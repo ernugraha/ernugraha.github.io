@@ -1,11 +1,11 @@
 ---
 layout: page
-title: what are u doin?
+title: なにをしていますか?
 search_exclude: true
 ---
 
 ## restricted access
-this is protected site. enter credential:
+このページはほごされています。にんしょうじょうほうをにゅうりょくしてください。
 
 <div id="lock-screen">
   <input type="text" id="username" placeholder="Username" style="display:block; margin: 10px auto; padding: 8px; border-radius: 5px; border: 1px solid #ccc;">
@@ -27,7 +27,7 @@ function checkAuth() {
         document.getElementById('lock-screen').style.display = 'none';
         document.getElementById('secret-content').style.display = 'block';
     } else {
-        document.getElementById('message').innerText = "Salah password! Coba ingat-ingat lagi.";
+        document.getElementById('message').innerText = "ぱすわーどがちがいます！あどみんにきいてください。";
     }
 }
 </script>
