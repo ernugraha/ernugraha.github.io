@@ -15,7 +15,8 @@ search_exclude: true
 </div>
 
 <div id="secret-content" style="display:none;">
-How u know?
+Conan SUS Moment.
+<iframe src="https://drive.google.com/file/d/1d1lm1SUs3XwSQmlTMhn9pGI1pZeTxo3r/preview" width="640" height="480"></iframe>
 </div>
 
 <script>
