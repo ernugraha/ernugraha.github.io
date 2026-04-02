@@ -25,11 +25,11 @@ search_exclude: true
 
 ### Detective Conan OPENING
 Opening 01 (MuneGaDokiDoki) 1996 vs 2016 vs 2026
-<iframe src="https://drive.google.com/file/d/1vtmXZR-wi--qbgXOSf2N4LdC3DX0DTTe/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1vtmXZR-wi--qbgXOSf2N4LdC3DX0DTTe/preview" width="854" height="480"></iframe>
 
 
 Conan sus Moment.
-<iframe src="https://drive.google.com/file/d/1d1lm1SUs3XwSQmlTMhn9pGI1pZeTxo3r/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1d1lm1SUs3XwSQmlTMhn9pGI1pZeTxo3r/preview" width="854" height="480"></iframe>
 </div>
 
 <script>
@@ -37,7 +37,7 @@ function checkAuth() {
     const user = document.getElementById('username').value;
     const pass = document.getElementById('password').value;
     
-    if (user === "ernugraha" && pass === "abc") {
+    if (user === "ernugraha" && pass === "nana") {
         document.getElementById('lock-screen').style.display = 'none';
         document.getElementById('secret-content').style.display = 'block';
     } else {
